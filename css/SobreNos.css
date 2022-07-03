@@ -1,0 +1,10 @@
+.val{
+padding: 100px;
+justify-content: center;
+}
+
+.val img{
+    border-radius: 100%;
+    width: 300px ;
+    border: 1px black solid;
+}
